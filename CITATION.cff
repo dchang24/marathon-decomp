@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper (see preferred-citation); the archived software record below may also be cited."
+title: "marathon-decomp: Ranking Marathon Difficulty from Large, Sparse Data: A Robust Latent-Factor Approach"
+type: software
+authors:
+  - family-names: "Chang"
+    given-names: "Yi Hua (Dillon)"
+    orcid: "https://orcid.org/0000-0003-0112-4139"
+    email: yhchang1419@gmail.com
+repository-code: "https://github.com/dchang24/marathon-decomp"
+url: "https://github.com/dchang24/marathon-decomp"
+abstract: >-
+  Code and a synthetic dataset that decompose marathon finish times into
+  separable athlete and race latent factors, ranking race difficulty
+  independently of which runners entered each race.
+keywords:
+  - sports analytics
+  - marathon
+  - latent factor model
+  - race difficulty
+  - record linkage
+  - robust statistics
+license: MIT
+version: "1.0.0"
+date-released: "2026-06-27"
+# After the first Zenodo release, add the concept DOI (always resolves to latest):
+# doi: "10.5281/zenodo.XXXXXXX"
+preferred-citation:
+  type: article
+  title: "Ranking Marathon Difficulty from Large, Sparse Data: A Robust Latent-Factor Approach"
+  year: 2026
+  authors:
+    - family-names: "Chang"
+      given-names: "Yi Hua (Dillon)"
+      orcid: "https://orcid.org/0000-0003-0112-4139"
+  # After posting the preprint, add its DOI/URL (and journal once published):
+  # doi: "10.51224/SRXIV.XXXX"
+  # url: "https://sportrxiv.org/index.php/server/preprint/view/XXXX"
