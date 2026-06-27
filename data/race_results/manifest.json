@@ -1,0 +1,30 @@
+{
+  "synthetic": true,
+  "built_at": "2026-06-24T21:22:14",
+  "source_export": "data/race_results",
+  "seed": 2026,
+  "perturbation": {
+    "time_jitter_lognormal_sigma": 0.06,
+    "yob_jitter_years": [
+      -1,
+      0,
+      1
+    ],
+    "country_anonymized": true,
+    "n_countries": 192,
+    "dropped_source_ids": [
+      "master_athlete_id"
+    ],
+    "kept_real": [
+      "competition_id",
+      "series_key",
+      "date",
+      "year"
+    ]
+  },
+  "row_counts": {
+    "competitions": 398,
+    "athletes": 402649,
+    "results": 1244522
+  }
+}

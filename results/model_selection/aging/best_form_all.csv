@@ -1,0 +1,13 @@
+slug,slice,solver,nu,best_cand,cv_per_cell,full_bic,K,fold_seed
+ALL_B_14-25_mrc2,ALL_B,anderson,inf,spline6-gvarying,0.8382457030571512,1991132.3258844484,5,0
+ALL_B_14-25_mrc2,ALL_B,anderson,8.0,spline6-gvarying,0.926870148467745,1765435.955023809,5,0
+ALL_M_14-25_mrc2,ALL_M,anderson,inf,spline6-gvarying,0.8358358761514035,1292351.080242062,5,0
+ALL_M_14-25_mrc2,ALL_M,anderson,8.0,spline5-gvarying,0.9222919598367756,1129139.2914110878,5,0
+ALL_W_14-25_mrc2,ALL_W,anderson,inf,spline4-gvarying,0.8469913858013332,447200.1789358009,5,0
+ALL_W_14-25_mrc2,ALL_W,anderson,8.0,spline6-gvarying,0.93850667264693,388186.31026888406,5,0
+Po10_B_14-25_mrc2,Po10_B,anderson,inf,poly2-gscalar,0.7891322977417092,112448.5142915632,5,0
+Po10_B_14-25_mrc2,Po10_B,anderson,8.0,poly2-gvarying,0.918450162660178,75949.2550309219,5,0
+Po10_M_14-25_mrc2,Po10_M,anderson,inf,poly2-gvarying,0.7542517220157168,63492.47628835839,5,0
+Po10_M_14-25_mrc2,Po10_M,anderson,8.0,poly2-gvarying,0.883677259846409,39122.7297533275,5,0
+Po10_W_14-25_mrc2,Po10_W,anderson,inf,poly2-gscalar,0.8472365788583284,16655.677026129473,5,0
+Po10_W_14-25_mrc2,Po10_W,anderson,8.0,poly2-gscalar,0.9773151872166774,5934.270795709075,5,0

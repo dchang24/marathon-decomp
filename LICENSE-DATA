@@ -1,0 +1,11 @@
+Data, figures, and result tables in this repository are licensed under the
+Creative Commons Attribution 4.0 International License (CC-BY-4.0).
+
+  https://creativecommons.org/licenses/by/4.0/legalcode
+
+Copyright (c) 2026 Yi Hua (Dillon) Chang. You are free to share and adapt the material for
+any purpose, provided you give appropriate credit.
+
+The dataset under data/race_results/ is SYNTHETIC (see its manifest.json and the
+README). Weather features derive from ERA5 (Copernicus Climate Change Service)
+and Open-Meteo; please also credit those sources when reusing the weather data.

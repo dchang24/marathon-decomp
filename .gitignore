@@ -1,0 +1,22 @@
+# byte-compiled / caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+cache/
+.cache/
+
+# local envs / editors
+.venv/
+.env
+.vscode/
+.idea/
+.DS_Store
+
+# build artifacts
+build/
+dist/
+*.egg-info/
+
+# heavy fitted artifacts -- regenerate by running the pipeline
+results/models/
+results/convergence/

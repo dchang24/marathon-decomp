@@ -1,0 +1,52 @@
+# paper.mplstyle
+#
+# Matplotlib style file for consistent figure formatting in the paper.
+# Designed for the JQAS (dgruyter) and preprint (article) document classes.
+# 
+# Typical text widths:
+# - Preprint (1-inch margins on US Letter): 6.5 inches (165 mm)
+# - JQAS (dgruyter [big,online] layout): 155 mm (~6.10 inches)
+#
+# A safe full-width figure should be 6.1 inches wide.
+# A safe half-width figure should be ~3.0 inches wide.
+
+# Figure
+figure.figsize: 6.1, 4.0      # (width, height) in inches
+figure.dpi: 150
+figure.autolayout: False      # use tight_layout() explicitly in code if needed
+figure.facecolor: white
+
+# Fonts and Text
+font.family: sans-serif
+font.size: 9                  # default font size
+axes.titlesize: 10            # title font size
+axes.labelsize: 9             # x and y label size
+xtick.labelsize: 8            # tick label sizes
+ytick.labelsize: 8
+legend.fontsize: 8
+legend.title_fontsize: 9
+
+# Axes and Ticks
+axes.linewidth: 0.8
+axes.facecolor: white
+axes.grid: False
+axes.axisbelow: True          # draw grid lines below plots
+xtick.major.width: 0.8
+ytick.major.width: 0.8
+xtick.minor.width: 0.6
+ytick.minor.width: 0.6
+
+# Lines and Markers
+lines.linewidth: 1.2
+lines.markersize: 4
+
+# Legend
+legend.frameon: True
+legend.framealpha: 0.9
+legend.edgecolor: 0.8
+legend.fancybox: False
+
+# Grid
+grid.color: 0.8
+grid.linewidth: 0.5
+grid.alpha: 0.5
