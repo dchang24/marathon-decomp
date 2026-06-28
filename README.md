@@ -1,5 +1,7 @@
 # marathon-decomp
 
+[![DOI](https://zenodo.org/badge/1279629652.svg)](https://doi.org/10.5281/zenodo.20999281)
+
 Code and a **synthetic dataset** reproducing the analysis in:
 
 > **Ranking Marathon Difficulty from Large, Sparse Data: A Robust Latent-Factor Approach**
