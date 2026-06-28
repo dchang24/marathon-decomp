@@ -15,9 +15,8 @@ classifiers = [
     "Topic :: Scientific/Engineering",
 ]
 
-# TODO: set the real repository URL before publishing.
 [project.urls]
-Repository = "https://github.com/<your-username>/marathon-decomp"
+Repository = "https://github.com/dchang24/marathon-decomp"
 
 dependencies = [
     "numpy>=1.24",
